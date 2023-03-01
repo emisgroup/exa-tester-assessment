@@ -15,7 +15,7 @@ yarn dev (this could take a several  minutes)
 
 **Note:** On the login page you are able to create a test user
 
-The task is to review the mock website. Then document the test cases you would need to cover it functionality and provide the code to run through these tests. 
+The task is to review the mock website. Document the test cases you would need to cover its functionality, then provide the code to run through these tests. Please provide instruction of how to run these tests automatically 
 
 ## Evaluation
 We take into account 5 areas when evaluating a solution. Each criteria is evaluated from 0 (non-existent) to 5 (excellent) and your final score would be a simple average across all 5 areas. These are:
