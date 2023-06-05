@@ -8,10 +8,10 @@ We are testing your ability to design tests for a website, using existing tools 
 ## Task
 For this task use an existing mock website, we recommend looking at the one provided by Cypress
 https://github.com/cypress-io/cypress-realworld-app
-clone repository, checkout main branch
-Then follow installation & run app instruction 
-yarn install (this could take a several minutes)
-yarn dev (this could take a several  minutes)
+- clone repository, checkout main branch
+- Then follow installation & run app instruction 
+  - **yarn install** (this could take a several minutes)
+  - **yarn dev** (this could take a several  minutes)
 
 **Note:** On the login page you are able to create a test user
 
